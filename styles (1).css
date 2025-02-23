@@ -31,8 +31,8 @@ nav ul li {
 
 nav ul li a {
     color: white;
-    text-decoration: line-through;
-    font-size: 10px;
+    text-decoration: inline;
+    font-size: 15px;
 }
 
 /* Profile Container */
